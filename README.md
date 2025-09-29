@@ -1,11 +1,11 @@
 # Practica2
 # Vehicle Sales Management System (Prolog) – ST0244
 
-**Curso:** ST0244 – Programming Languages · Practice II (EAFIT)
+**Curso:** ST0244 – Programming Languages · Practice II 
 **Docente:** Alexander Narváez Berrío
 **Valor:** 12% de la nota final
-**Fecha:** Marzo de 2025
-**Autor:** Jose David Acevedo
+**Fecha:** Septiembre de 2025
+**Autor:** Jose David Acevedo T.
 
 ---
 

@@ -7,6 +7,8 @@
 **Fecha:** Septiembre de 2025
 **Autor:** Jose David Acevedo T.
 
+VIDEO DE SUSTENTACION: https://youtu.be/KGXsA09Gfn0
+
 ---
 
 ## Descripción del proyecto
